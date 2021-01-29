@@ -2,3 +2,5 @@
 /bootstrap
 /minimal
 /uprobe
+/kprobe
+/fentry
